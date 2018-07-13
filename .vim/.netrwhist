@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/administrator/workspace/apollo/modules/planning/tasks/dp_st_speed'
+let g:netrw_dirhist_2='/home/administrator/workspace/apollo/modules/planning/tasks'
+let g:netrw_dirhist_3='/home/administrator/workspace/apollo/modules/planning'
+let g:netrw_dirhist_4='/home/administrator/workspace/apollo/modules/planning/tasks/dp_st_speed'
+let g:netrw_dirhist_5='/home/administrator/autogo-control/control'
+let g:netrw_dirhist_6='/home/administrator/workspace/apollo/modules/planning/tasks/qp_spline_st_speed'
